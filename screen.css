@@ -1,15 +1,13 @@
 /* Add screen styles below */
 header{ color: #ffea00;
+    margin: auto;
 
 }
-body {
-    background: #ffea00;
-    background: linear-gradient(to right, #0b6110, #0d2f94);
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-align: center;
-}
+
   form { 
     padding-top: 2cm;
     margin: 0 auto; 
     width:650px;
     }
+    
+    
