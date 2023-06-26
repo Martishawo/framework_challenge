@@ -1,8 +1,11 @@
 /* Add screen styles below */
-header{ color: #ffea00;
-    margin: auto;
+nav{   
+    color: #ffea00;
+    
+   
 
 }
+
 
   form { 
     padding-top: 2cm;
